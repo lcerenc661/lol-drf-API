@@ -1,0 +1,6 @@
+openapi: 3.0.3
+info:
+  title: DRF LOL-API
+  version: 0.0.0
+paths: {}
+components: {}

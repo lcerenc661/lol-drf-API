@@ -1,3 +1,7 @@
 from django.contrib import admin
 
-# Register your models here.
+from core.models import Role, Champion, Ability
+
+admin.site.register(Role)
+admin.site.register(Champion)
+admin.site.register(Ability)
